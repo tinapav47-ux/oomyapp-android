@@ -1,2 +1,84 @@
-# oomyapp-android
-OomyApp is an Android application built with Kotlin and Jetpack Compose. The app provides a modern user experience with camera integration, media features, and premium functionality.
+# Oomy
+
+**Oomy** — это Android-приложение для съемки и редактирования фотографий, созданное в стиле ретро-камер (таких как Dazz Cam и Old Roll). Оно позволяет делать снимки с выбранным эффектом "на лету" и редактировать уже готовые фото. Весь функционал полностью бесплатный, без рекламы.
+
+Приложение создано в Android Studio на языке Kotlin в рамках экспериментального **vibe-кодинга**.
+
+> ⚠️ **Важно:** Это бесплатное приложение распространяется в виде готового APK-файла. Исходный код не открыт, но вы можете свободно скачать, установить и пользоваться Oomy.
+
+## Скриншоты
+Меню
+<p align="center">
+<img src="https://github.com/user-attachments/assets/53f30aa1-c11d-4737-8aef-a67d59b9b919" width="250" alt="Главный экран">
+</p>
+Экран "Настройки":
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0ebf5cd9-c9cb-4f6c-b507-f7b5dfa176b8" width="250" alt="Настройки rus">
+<img src="https://github.com/user-attachments/assets/d1fafe69-4422-48e8-b912-7ef2df23d749" width="250" alt="Настройки eng">
+<img src="https://github.com/user-attachments/assets/45a8468d-a28b-4d67-a2a5-c4896421d87a" width="250" alt="Настройки eng">
+</p>
+Главный экран:
+<p align="center">
+<img src="https://github.com/user-attachments/assets/02545c71-008f-422a-827f-e0d3ce6e3a7a" width="250" alt="НГлавный экран">
+<img src="https://github.com/user-attachments/assets/594bb3ff-a79d-4aad-a473-2912778dc201" width="250">
+<img src="https://github.com/user-attachments/assets/d2917717-ae5b-42b7-bb22-293473a9c1a6" width="250">
+<img src="https://github.com/user-attachments/assets/30b8223f-ea36-4ce0-9ce9-f67114fdc75e" width="250">
+</p>
+Экран фильтров:
+<p align="center">
+<img src="https://github.com/user-attachments/assets/35003b1d-e429-4f24-b565-65bbc885f6b0" width="250">
+<img src="https://github.com/user-attachments/assets/6a50ebc9-70b5-4326-a2d6-d56fe0f0e8f7" width="250">
+</p>
+Экран редактирования:
+<p align="center">
+<img src="https://github.com/user-attachments/assets/1f6ba493-88f6-4132-9251-fdf31b73f089" width="250">
+<img src="https://github.com/user-attachments/assets/69f413f6-b682-4568-bee0-13ad9f2faef7" width="250">
+<img src="https://github.com/user-attachments/assets/08e9e5b4-4571-4ea2-9669-4cfa38c74326" width="250">
+<img src="https://github.com/user-attachments/assets/5fe1a8c2-f9f8-42c1-9a03-d49185391787" width="250">
+<img src="https://github.com/user-attachments/assets/cc109aa7-4dca-4806-80e0-345493d3ec1b" width="250">
+<img src="https://github.com/user-attachments/assets/acd65403-e0e2-46aa-960a-ba93231faca8" width="250">
+</p>
+
+## Возможности
+
+Приложение объединяет в себе две основные функции: камеру и редактор.
+
+### Камера
+*   **Съемка с фильтром:** Выберите фильтр, и каждый сделанный снимок будет автоматически сохранен с этим эффектом.
+*   **Предпросмотр в реальном времени:** Сразу видите, как фильтр меняет картинку.
+*   **Удобный интерфейс:** Интуитивно понятное управление, как в пленочных камерах.
+
+### Редактор фотографий
+Редактор позволяет доработать любое фото из галереи:
+*   **Базовая обработка:** Кадрирование (кроп), поворот изображения.
+*   **Наложение фильтров:** Примените любой из доступных в приложении фильтров к уже готовым снимкам.
+*   **Тонкая настройка:** Ручная регулировка экспозиции, контрастности, насыщенности и других параметров.
+
+### Галерея и Управление
+*   **Встроенная галерея:** Просматривайте все снимки, сделанные в приложении.
+*   **Удаление:** Просто удаляйте ненужные фотографии.
+*   **Настройки:** Управляйте параметрами приложения по своему усмотрению.
+
+## Как установить Oomy
+
+Приложение не требует исходного кода для установки. Вы можете скачать и установить его прямо на свой телефон.
+
+1.  **Скачайте APK:**
+    *   Перейдите в раздел **[Releases](https://github.com/tinapav47-ux/oomyapp-android/releases)** этого репозитория.
+    *   Скачайте последнюю версию файла с расширением `.apk` (например, `oomy-v1.0.apk`).
+2.  **Разрешите установку из неизвестных источников:**
+    *   На вашем Android-устройстве при первом запуске установки APK система попросит разрешить установку приложений из этого источника (например, "Настройки" -> "Безопасность" -> "Неизвестные источники" или разрешить установку из вашего браузера/файлового менеджера).
+3.  **Установите:**
+    *   Откройте скачанный APK-файл и нажмите "Установить".
+4.  **Пользуйтесь!**
+    *   После установки откройте приложение Oomy и начните творить.
+
+## О проекте
+
+**Oomy** создан:
+*   С использованием **Kotlin** и **Android Studio**.
+*   В концепции **vibe-кодинга** — разработка в удовольствие, с фокусом на идею и пользовательский опыт.
+*   Как полностью **бесплатный** продукт без встроенной рекламы и покупок.
+
+---
+
